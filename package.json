@@ -4,9 +4,12 @@
   "version": "1.0.0",
   "author": "Alexander Kim",
   "dependencies": {
+    "bulma": "^0.5.1",
+    "font-awesome": "^4.7.0",
     "gatsby": "^1.9.17",
     "gatsby-link": "^1.6.15",
-    "gatsby-plugin-react-helmet": "^1.0.5"
+    "gatsby-plugin-react-helmet": "^1.0.5",
+    "react-scroll": "^1.5.4"
   },
   "keywords": [
     "gatsby"
